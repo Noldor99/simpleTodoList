@@ -1,0 +1,31 @@
+.container-editor{
+  padding-top: 15px;
+  display: flex;
+  flex-direction: column;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}
+
+.editor-item{
+  display: flex;
+  margin: 0 auto;
+  max-width: 600px;
+  width: 100%;
+}
+
+.editor-item:not(:last-child){
+  margin-bottom: 10px;
+}
+
+
+.editor-radio{
+  margin-right: 10px;
+  margin-top: 7px;
+}
+
+ 
+
+.editor-byttom{
+  margin-left: 10px;
+}

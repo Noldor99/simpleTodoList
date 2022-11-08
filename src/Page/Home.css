@@ -1,0 +1,16 @@
+.container-home{
+ display: flex;
+ max-width: 600px;
+ margin: 0 auto;
+ padding-top: 10px;
+}
+.todo-home{
+  flex: 1 0;
+
+}
+.done-home{
+  flex: 1 0;
+}
+.parag-home{
+  text-align: center;
+}
